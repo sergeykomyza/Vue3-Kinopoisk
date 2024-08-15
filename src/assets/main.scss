@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*,
+p,
+h1,h2,h3,h4,h5,h6{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body{
+  padding: 50px 0;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 400;
+  color: white;
+  background: #1B202C;
+}
+
+figure{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 1430px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
